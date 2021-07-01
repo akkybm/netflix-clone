@@ -5,9 +5,9 @@
 
 A simple **ReactJS** Netflix homepage clone running on Astra DB that leverages a GraphQL API with paging and infinite scrolling.
 
-## LIVE WEBSITE (Click here to view live netflix clone website)
+## LIVE WEBSITE
 <!--- ENDEXCLUDE --->
-- [Live Demo](https://workshop-graphql-netflix.netlify.app/)
+- [Live](https://workshop-graphql-netflix.netlify.app/)
 
 ![image](./img/website.png)
 
