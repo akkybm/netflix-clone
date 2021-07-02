@@ -7,7 +7,7 @@ A simple **ReactJS** Netflix homepage clone running on Astra DB that leverages a
 
 ## LIVE WEBSITE
 <!--- ENDEXCLUDE --->
-- [CLICK HERE](https://workshop-graphql-netflix.netlify.app/)
+- [CLICK HERE](https://akashbm-netflix-clone.netlify.app/)
 
 ![image](./img/website.png)
 
